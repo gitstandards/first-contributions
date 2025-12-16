@@ -1,1 +1,19 @@
-- [Git-standards](https://github.com/gitstandards)
+ [Git-standards](https://github.com/gitstandards)
+
+
+
+
+
+
+
+
+
+
+Vineeth Naik
+
+
+
+
+
+
+

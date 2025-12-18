@@ -1,3 +1,3 @@
-- [Git-standards](https://github.com/gitstandards)
-- Kiran
+* [Git-standards](https://github.com/gitstandards)
 
+  saitejaperala

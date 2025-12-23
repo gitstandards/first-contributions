@@ -1,4 +1,4 @@
 - [Git-standards](https://github.com/gitstandards)
-- Kiran
+- Sai Kiran
 
 - Lavanya DevOps Training

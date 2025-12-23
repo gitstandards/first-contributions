@@ -1,2 +1,2 @@
 - [Git-standards](https://github.com/gitstandards)
-- Sri Chaitanya Reddy Kanupuru
+- Sri Chaitanya Reddy
